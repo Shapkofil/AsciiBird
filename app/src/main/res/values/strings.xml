@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ascii Bird</string>
+    <string name="action_settings">Guide</string>
+    <string name="hint_message">MailBox</string>
+
+    <string-array name="themes">
+        <item>Marine</item>
+        <item>Cactus</item>
+        <item>Violet</item>
+        <item>GrayScale</item>
+    </string-array>
+    <string name="title_activity_user_guide">UserGuideActivity</string>
+    <string name="tab_inputs">Input</string>
+    <string name="tab_bit_display">Bit Display</string>
+    <string name="tab_mail_box">Mail Box</string>
+    <string name="tab_overview">Overview</string>
+
+    <string name="overview">Ascii Bird is an opensourse telegraph simulator. You might have figured by the name but it uses binary Ascii instead of the traditional for telegraphs Morse code. The following three tabs contain in depth description
+        the features in the app. The thing is I am sure you are smart enough to figure everything on your own... so go on press skip, you can return to this section at any point anyways.</string>
+    <string name="inputs_description">The clicky part of the telegraph is either your headphone button, or the build-in button.Press once to start write a letter for every bit you have a second, a press sets the current bit to 1.</string>
+    <string name="bit_display_description">Displays the current bit sequence ,the symbol X means not written yet.</string>
+    <string name="mail_box_description">This is the MailBox and this is where your message is been displayed..... that is it..... not rocket science</string>
+</resources>
